@@ -1,0 +1,21 @@
+a:2:{i:0;s:1433:"
+
+<a href="/humhub/index.php?r=activity%2Flink&id=3">
+
+    <div class="media">
+                    <!-- Show user image -->
+            <span class="pull-left"><img class="media-object img-rounded" src="/humhub/uploads/profile_image/62d2f670-3570-45c1-9b53-25b9e1648052.jpg?m=1638215168" width="32" alt="Imagem de perfil de David Roberts" style="width: 32px; height: 32px" data-contentcontainer-id="3"></span>        
+        <!-- Show space image, if you are outside from a space -->
+                                    <div class="img-space pull-left space-profile-acronym-1 space-acronym" style=" background-color: #6fdbe8; width: 20px; height: 20px; font-size: 8.8px; padding: 3.6px 0; border-radius: 2px;" data-contentcontainer-id="2">ED</div><img class="img-space pull-left space-profile-image-1 img-rounded profile-user-photo hidden" src="/humhub/static/img/default_space.jpg" alt="Espaço de Boas-vindas" style=" width: 20px; height: 20px" data-contentcontainer-id="2">            
+        
+        <div class="media-body text-break">
+
+            <!-- Show content -->
+            <strong>David Roberts</strong> entrou no espaço <strong>Espaço de Boas-vindas</strong>            <br>
+
+            <!-- show time -->
+            <time class="tt time timeago" data-ui-addition="timeago" datetime="2021-11-29T20:46:08+01:00" title="29 de nov. de 2021 - 20:46">29 de nov. de 2021 - 20:46</time>        </div>
+    </div>
+
+</a>
+";i:1;N;}
