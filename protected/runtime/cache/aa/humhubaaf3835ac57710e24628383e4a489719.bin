@@ -1,4 +1,4 @@
-a:2:{i:0;s:1433:"
+a:2:{i:0;s:1480:"
 
 <a href="/humhub/index.php?r=activity%2Flink&id=3">
 
@@ -6,7 +6,7 @@ a:2:{i:0;s:1433:"
                     <!-- Show user image -->
             <span class="pull-left"><img class="media-object img-rounded" src="/humhub/uploads/profile_image/62d2f670-3570-45c1-9b53-25b9e1648052.jpg?m=1638215168" width="32" alt="Imagem de perfil de David Roberts" style="width: 32px; height: 32px" data-contentcontainer-id="3"></span>        
         <!-- Show space image, if you are outside from a space -->
-                                    <div class="img-space pull-left space-profile-acronym-1 space-acronym" style=" background-color: #6fdbe8; width: 20px; height: 20px; font-size: 8.8px; padding: 3.6px 0; border-radius: 2px;" data-contentcontainer-id="2">ED</div><img class="img-space pull-left space-profile-image-1 img-rounded profile-user-photo hidden" src="/humhub/static/img/default_space.jpg" alt="Espaço de Boas-vindas" style=" width: 20px; height: 20px" data-contentcontainer-id="2">            
+                                    <div class="img-space pull-left space-profile-acronym-1 space-acronym hidden" style=" background-color: #6fdbe8; width: 20px; height: 20px; font-size: 8.8px; padding: 3.6px 0; border-radius: 2px;" data-contentcontainer-id="2">ED</div><img class="img-space pull-left space-profile-image-1 img-rounded profile-user-photo" src="/humhub/uploads/profile_image/92bea2ed-72d0-4d2c-96d5-09063d502590.jpg?m=1638302691" alt="Espaço de Boas-vindas" style=" width: 20px; height: 20px" data-contentcontainer-id="2">            
         
         <div class="media-body text-break">
 
